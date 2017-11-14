@@ -1,0 +1,27 @@
+h1 {
+font-family: Helvetica;
+font-size: 70px;
+font-weight: bold;
+text-align: center;
+color: white;}
+
+h2 {
+font-family: Helvetica;
+font-size: 18px;
+color: white;
+}
+
+p {
+background-color: white;
+}
+
+body {font-family: Helvetica;
+  background-image: url('https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png')}
+
+a:link {
+color:white
+}
+
+a:visited {
+color: white
+}
